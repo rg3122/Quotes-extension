@@ -1,0 +1,14 @@
+{
+    "name":"motivational quotes",
+    "version":"0.0.1",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup":"pop.html",
+        "default_icon":"yo.png"
+    },
+    "icons":
+   {
+        "128":"yo.png"
+    },
+    "permissions":["activeTab"]
+}
